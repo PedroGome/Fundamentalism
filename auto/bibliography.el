@@ -2,6 +2,9 @@
  "bibliography"
  (lambda ()
    (LaTeX-add-bibitems
-    "fundamentalism1"))
+    "fundamentalism1"
+    "ChristianFundamentalism"
+    "RiseFundamentalism"
+    "MonkeyTrial"))
  :bibtex)
 

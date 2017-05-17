@@ -1,17 +1,22 @@
 # Fdb version 3
-["biber 1920s culture project"] 1494981023 "1920s culture project.bcf" "1920s culture project.bbl" "1920s culture project" 1494981025
-  "1920s culture project.bcf" 1494981025 99186 5152b362a7f38431e2aeb4e22097b1ed ""
+["biber 1920s culture project"] 1494981905 "1920s culture project.bcf" "1920s culture project.bbl" "1920s culture project" 1494981920
+  "1920s culture project.bcf" 1494981920 99243 75bda7f47df6f5f30d787e939e8dfdf0 ""
+  "bibliography.bib" 1494981556 154 98059c631f237d41e3a4a319093453e7 ""
   (generated)
   "1920s culture project.bbl"
   "1920s culture project.blg"
-["pdflatex"] 1494981024 "1920s culture project.tex" "1920s culture project.pdf" "1920s culture project" 1494981025
+["pdflatex"] 1494981919 "1920s culture project.tex" "1920s culture project.pdf" "1920s culture project" 1494981920
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1492575660 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1492575644 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm" 1492575648 4524 6bce29db5bc272ba5f332261583fee9c ""
+  "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm" 1492575648 6880 f19b8995b61c334d78fc734065f6b4d4 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm" 1492575648 4408 25b74d011a4c66b7f212c0cc3c90061b ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm" 1492575648 6672 e3ab9e37e925f3045c9005e6d1473d56 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1492575648 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1492575650 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/share/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1492575640 44729 811d6c62865936705a31c797a1d5dada ""
   "/usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1492575640 46026 6dab18b61c907687b520c72847215a68 ""
+  "/usr/share/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf" 1492575647 2340 df9c920cc5688ebbf16a93f45ce7bdd3 ""
   "/usr/share/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf" 1492575647 2348 91706c542228501c410c266421fbe30c ""
   "/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1492575661 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texmf-dist/tex/generic/babel-english/english.ldf" 1492575655 7008 fd11ed3b832df052a4adb2c56e472748 ""
@@ -78,14 +83,14 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1492575665 31661 3832dc67fcae1bb0c47594ea86c25797 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1494978094 2220423 fef69922126604e2c6136500ed3e2ad4 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1494978077 7587051 e2b72c97cad0be787cc5fe4132052cc3 ""
-  "1920s culture project.aux" 1494981025 750 2ceca6282ccc0ad2e0990f60e7584ae4 ""
-  "1920s culture project.bbl" 1494981024 466 87c763802318ca007e475d2fb9c40fb5 "biber 1920s culture project"
-  "1920s culture project.run.xml" 1494981025 2543 5d72ea0bf6a8d7f2195dc3e783620c15 ""
-  "1920s culture project.tex" 1494980897 4415 89b9b0df805640d3668a28548b6f6a06 ""
+  "1920s culture project.aux" 1494981920 818 0f7557a54c52ccf632ede7827779705c ""
+  "1920s culture project.bbl" 1494981905 0 d41d8cd98f00b204e9800998ecf8427e "biber 1920s culture project"
+  "1920s culture project.run.xml" 1494981920 2543 e742444e44b362d77bc022f81c18c026 ""
+  "1920s culture project.tex" 1494981903 4438 15e21f86db3e6085b930ee64efc6c711 ""
   "1920s culture project.tpt" 0 -1 0 ""
   (generated)
   "1920s culture project.run.xml"
-  "1920s culture project.bcf"
-  "1920s culture project.log"
   "1920s culture project.aux"
   "1920s culture project.pdf"
+  "1920s culture project.bcf"
+  "1920s culture project.log"
