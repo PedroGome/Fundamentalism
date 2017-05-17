@@ -1,0 +1,13 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is '1920s culture project.blg'
+[33] biber:303> INFO - === Tue May 16, 2017, 20:21:23
+[47] Biber.pm:359> INFO - Reading '1920s culture project.bcf'
+[143] Biber.pm:835> INFO - Found 1 citekeys in bib section 0
+[158] Biber.pm:3670> INFO - Processing section 0
+[172] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[173] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[176] bibtex.pm:1292> INFO - Found BibTeX data source 'bibliography.bib'
+[176] Utils.pm:164> WARN - Entry fundamentalism1 does not parse correctly
+[177] Utils.pm:180> ERROR - BibTeX subsystem: /tmp/v_X6HM90RC/bibliography.bib_23574.utf8, line 4, syntax error: found "year", expected end of entry ("}" or ")") (skipping to next "@")
+[177] Biber.pm:109> INFO - WARNINGS: 1
+[177] Biber.pm:113> INFO - ERRORS: 1
