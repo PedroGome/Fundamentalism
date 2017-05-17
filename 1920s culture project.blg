@@ -1,17 +1,17 @@
-[0] Config.pm:354> INFO - This is Biber 2.7
+[1] Config.pm:354> INFO - This is Biber 2.7
 [1] Config.pm:357> INFO - Logfile is '1920s culture project.blg'
-[68] biber:303> INFO - === Tue May 16, 2017, 21:08:50
-[91] Biber.pm:359> INFO - Reading '1920s culture project.bcf'
-[205] Biber.pm:835> INFO - Found 4 citekeys in bib section 0
-[221] Biber.pm:3670> INFO - Processing section 0
-[236] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
-[236] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
-[241] bibtex.pm:1292> INFO - Found BibTeX data source 'bibliography.bib'
-[249] Utils.pm:164> WARN - month field 'November' in entry 'RiseFundamentalism' is not an integer - this will probably not sort properly.
-[264] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[265] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[265] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
-[265] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[269] bbl.pm:608> INFO - Writing '1920s culture project.bbl' with encoding 'UTF-8'
-[270] bbl.pm:712> INFO - Output to 1920s culture project.bbl
-[270] Biber.pm:109> INFO - WARNINGS: 1
+[71] biber:303> INFO - === Tue May 16, 2017, 21:28:13
+[94] Biber.pm:359> INFO - Reading '1920s culture project.bcf'
+[218] Biber.pm:835> INFO - Found 4 citekeys in bib section 0
+[233] Biber.pm:3670> INFO - Processing section 0
+[247] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[248] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[252] bibtex.pm:1292> INFO - Found BibTeX data source 'bibliography.bib'
+[260] Utils.pm:164> WARN - month field 'November' in entry 'RiseFundamentalism' is not an integer - this will probably not sort properly.
+[274] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[275] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[275] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[275] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[279] bbl.pm:608> INFO - Writing '1920s culture project.bbl' with encoding 'UTF-8'
+[280] bbl.pm:712> INFO - Output to 1920s culture project.bbl
+[280] Biber.pm:109> INFO - WARNINGS: 1
