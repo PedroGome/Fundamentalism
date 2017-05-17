@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.5.16)  16 MAY 2017 20:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.5.16)  16 MAY 2017 21:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -796,12 +796,6 @@ Package biblatex Info: Reference section=0 on input line 14.
 Package biblatex Info: Reference segment=0 on input line 14.
 
 
-LaTeX Warning: Citation 'fundamentalism1' on page 1 undefined on input line 17.
-
-
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 17.
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
@@ -810,37 +804,35 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ] [2] [3]
-
-LaTeX Warning: Empty bibliography on input line 23.
-
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 23.
+ [4]
 (./1920s culture project.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                "1920s culture project"
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to '"1920s culture project".run.xml'.
 \openout1 = `"1920s culture project.run.xml"'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10153 strings out of 493013
- 169828 string characters out of 6139317
- 638492 words of memory out of 5000000
- 13571 multiletter control sequences out of 15000+600000
- 10227 words of font info for 20 fonts, out of 8000000 for 9000
+ 10208 strings out of 493013
+ 171122 string characters out of 6139317
+ 638673 words of memory out of 5000000
+ 13617 multiletter control sequences out of 15000+600000
+ 17157 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,11n,45p,1330b,1778s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,12n,50p,1373b,1778s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
 ts/type1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr
-8a.pfb>
-Output written on "1920s culture project.pdf" (3 pages, 29648 bytes).
+8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "1920s culture project.pdf" (4 pages, 37947 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 15 compressed objects within 1 object stream
+ 30 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
